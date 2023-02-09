@@ -1,0 +1,48 @@
+.box{
+    padding: 2px;
+    margin: 20px;
+    border-radius: 20px;
+    max-width: 100%;
+    height: 19cm;
+    text-align: center;
+}
+
+.previous {
+    background-color: #9c48db;
+    color: white;
+    text-align: center;
+}
+
+.next {
+    background-color: #9c48db;
+    color: white;
+    text-align: center;
+}
+
+.round {
+    border-radius: 5px;
+}
+
+.previous2 {
+    background-color: #d48608;
+    color: white;
+    text-align: center;
+}
+
+.next2 {
+    background-color: #d48608;
+    color: white;
+    text-align: center;
+}
+
+.previous3 {
+    background-color: #1b729e;
+    color: white;
+    text-align: center;
+}
+
+.next3 {
+    background-color: #1b729e;
+    color: white;
+    text-align: center;
+}
